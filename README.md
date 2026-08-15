@@ -14,13 +14,14 @@
 
 ## About this archive
 
-This repository bundles the final state of three formerly separate Consumet repositories, kept together for reference:
+This repository bundles the final state of four formerly separate Consumet repositories, kept together for reference:
 
 | Folder | Description |
 |---|---|
 | [`api.consumet.org`](./api.consumet.org) | The Consumet API server (Node.js/TypeScript). |
 | [`consumet.org`](./consumet.org) | The Consumet marketing/documentation website. |
 | [`consumet.ts`](./consumet.ts) | `consumet.ts`, the Node library providing high-level APIs to fetch entertainment metadata (published as `@consumet/extensions`). |
+| [`docs.consumet.org`](./docs.consumet.org) | The Consumet API documentation site (Nextra). |
 
 Each folder retains its own `README.md` with project-specific setup instructions, documentation, and licensing details.
 
