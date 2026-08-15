@@ -1,0 +1,34 @@
+{
+  "mangadex": {
+    "title": "Mangadex",
+    "theme": { "collapsed": true }
+  },
+  "mangahere": {
+    "title": "Mangahere",
+    "theme": { "collapsed": true }
+  },
+  "mangapill": {
+    "title": "Mangapill",
+    "theme": { "collapsed": true }
+  },
+  "mangareader": {
+    "title": "Mangareader",
+    "theme": { "collapsed": true }
+  },
+  "mangakakalot": {
+    "title": "Mangakakalot",
+    "theme": { "collapsed": true }
+  },
+  "comick": {
+    "title": "ComicK",
+    "theme": { "collapsed": true }
+  },
+  "asurascans": {
+    "title": "AsuraScans",
+    "theme": { "collapsed": true }
+  },
+  "weebcentral": {
+    "title": "WeebCentral",
+    "theme": { "collapsed": true }
+  }
+}

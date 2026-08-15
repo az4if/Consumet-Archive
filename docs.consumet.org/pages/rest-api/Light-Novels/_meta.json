@@ -1,0 +1,10 @@
+{
+  "read-light-novels": {
+    "title": "Read Light Novels",
+    "theme": { "collapsed": true }
+  },
+  "novelupdates": {
+    "title": "NovelUpdates",
+    "theme": { "collapsed": true }
+  }
+}

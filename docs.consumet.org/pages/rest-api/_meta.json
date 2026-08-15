@@ -1,0 +1,19 @@
+{
+  "start": "Get Started",
+
+  "Anime": { "title": "Anime", "theme": { "collapsed": true } },
+
+  "Books": { "title": "Books", "theme": { "collapsed": true } },
+
+  "Comics": { "title": "Comics", "theme": { "collapsed": true } },
+
+  "Meta": { "title": "Meta", "theme": { "collapsed": true } },
+
+  "Light-Novels": { "title": "Light Novels", "theme": { "collapsed": true } },
+
+  "Manga": { "title": "Manga", "theme": { "collapsed": true } },
+
+  "Movies": { "title": "Movies", "theme": { "collapsed": true } },
+
+  "News": { "title": "News", "theme": { "collapsed": true } }
+}
