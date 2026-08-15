@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Educational Archive**
+> This repository is a direct clone of the original project, preserved at its final commit. It will not receive further updates and remains online solely for educational purposes.
+
 # Nextra Docs Template 
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
